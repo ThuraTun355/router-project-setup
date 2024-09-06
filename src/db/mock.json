@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A novel about the serious issues of rape and racial inequality, told through the eyes of a young girl in the Deep South.",
+      "slug": "to-kill-a-mockingbird"
+    },
+    {
+      "id": 2,
+      "book": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, where individuality and freedom are suppressed.",
+      "slug": "1984"
+    },
+    {
+      "id": 3,
+      "book": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A classic romantic novel that explores themes of love, class, and societal expectations in early 19th-century England.",
+      "slug": "pride-and-prejudice"
+    },
+    {
+      "id": 4,
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A story about the American Dream, wealth, and social status, centered on the mysterious millionaire Jay Gatsby.",
+      "slug": "the-great-gatsby"
+    },
+    {
+      "id": 5,
+      "book": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "An epic tale of obsession and revenge, following Captain Ahab's relentless pursuit of the white whale, Moby Dick.",
+      "slug": "moby-dick"
+    },
+    {
+      "id": 6,
+      "book": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A novel about teenage rebellion and angst, as narrated by the cynical and disillusioned Holden Caulfield.",
+      "slug": "the-catcher-in-the-rye"
+    },
+    {
+      "id": 7,
+      "book": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "A futuristic novel that explores the dangers of a technologically advanced society obsessed with pleasure and control.",
+      "slug": "brave-new-world"
+    },
+    {
+      "id": 8,
+      "book": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "description": "A novel about the struggles and triumphs of an orphaned girl who grows up to become a strong and independent woman.",
+      "slug": "jane-eyre"
+    },
+    {
+      "id": 9,
+      "book": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy adventure following the journey of Bilbo Baggins as he encounters trolls, elves, and the dragon Smaug.",
+      "slug": "the-hobbit"
+    },
+    {
+      "id": 10,
+      "book": "Frankenstein",
+      "author": "Mary Shelley",
+      "description": "A Gothic novel about a scientist who creates a monstrous creature, exploring themes of ambition, hubris, and the consequences of playing God.",
+      "slug": "frankenstein"
+    }
+  ]
+}

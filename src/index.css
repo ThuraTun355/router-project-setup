@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .main {
+    @apply max-w-5xl mx-auto px-5 h-screen;
+  }
+}

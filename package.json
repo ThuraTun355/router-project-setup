@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "api": "json-server ./src/db/mock.json -p 8000 -d 2000"
   },
   "dependencies": {
     "axios": "^1.7.7",

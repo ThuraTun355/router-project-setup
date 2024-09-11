@@ -3,6 +3,7 @@
     {
       "id": 1,
       "book": "To Kill a Mockingbird",
+      "image": "https://images.unsplash.com/photo-1529007196863-d07650a3f0ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author": "Harper Lee",
       "description": "A novel about the serious issues of rape and racial inequality, told through the eyes of a young girl in the Deep South.",
       "slug": "to-kill-a-mockingbird"
@@ -11,6 +12,7 @@
       "id": 2,
       "book": "1984",
       "author": "George Orwell",
+      "image": "https://images.unsplash.com/photo-1543248939-4296e1fea89b?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, where individuality and freedom are suppressed.",
       "slug": "1984"
     },
@@ -18,12 +20,15 @@
       "id": 3,
       "book": "Pride and Prejudice",
       "author": "Jane Austen",
+      "image": "https://images.unsplash.com/photo-1506377872008-6645d9d29ef7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A classic romantic novel that explores themes of love, class, and societal expectations in early 19th-century England.",
       "slug": "pride-and-prejudice"
     },
+
     {
       "id": 4,
       "book": "The Great Gatsby",
+      "image": "https://images.unsplash.com/photo-1507738978512-35798112892c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "author": "F. Scott Fitzgerald",
       "description": "A story about the American Dream, wealth, and social status, centered on the mysterious millionaire Jay Gatsby.",
       "slug": "the-great-gatsby"
@@ -32,6 +37,7 @@
       "id": 5,
       "book": "Moby-Dick",
       "author": "Herman Melville",
+      "image": "https://plus.unsplash.com/premium_photo-1677567996070-68fa4181775a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "An epic tale of obsession and revenge, following Captain Ahab's relentless pursuit of the white whale, Moby Dick.",
       "slug": "moby-dick"
     },
@@ -39,6 +45,7 @@
       "id": 6,
       "book": "The Catcher in the Rye",
       "author": "J.D. Salinger",
+      "image": "https://images.unsplash.com/photo-1505063366573-38928ae5567e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A novel about teenage rebellion and angst, as narrated by the cynical and disillusioned Holden Caulfield.",
       "slug": "the-catcher-in-the-rye"
     },
@@ -46,6 +53,7 @@
       "id": 7,
       "book": "Brave New World",
       "author": "Aldous Huxley",
+      "image": "https://images.unsplash.com/photo-1522407183863-c0bf2256188c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A futuristic novel that explores the dangers of a technologically advanced society obsessed with pleasure and control.",
       "slug": "brave-new-world"
     },
@@ -53,6 +61,7 @@
       "id": 8,
       "book": "Jane Eyre",
       "author": "Charlotte Brontë",
+      "image": "https://images.unsplash.com/photo-1616330682546-2468b2d8dd17?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A novel about the struggles and triumphs of an orphaned girl who grows up to become a strong and independent woman.",
       "slug": "jane-eyre"
     },
@@ -60,15 +69,21 @@
       "id": 9,
       "book": "The Hobbit",
       "author": "J.R.R. Tolkien",
+      "image": "https://images.unsplash.com/photo-1607473129014-0afb7ed09c3a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "A fantasy adventure following the journey of Bilbo Baggins as he encounters trolls, elves, and the dragon Smaug.",
       "slug": "the-hobbit"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "thura123@gmail.com",
+      "password": "12345"
     },
     {
-      "id": 10,
-      "book": "Frankenstein",
-      "author": "Mary Shelley",
-      "description": "A Gothic novel about a scientist who creates a monstrous creature, exploring themes of ambition, hubris, and the consequences of playing God.",
-      "slug": "frankenstein"
+      "id": "2",
+      "email": "tuntun123@gmail.com",
+      "password": "67890"
     }
   ]
 }
